@@ -11,7 +11,7 @@
 ### :woman_technologist: About Me :
 I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russian.
 
-- :telescope: I am studying to be a web developer at Yandex.The workshop.
+- :telescope: I am studying to be a web developer at Yandex.Practicum.
 
 - :seedling: In my free time, I improve my skills in the frontend and read articles and books about the backend
 
@@ -31,4 +31,4 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ---
 ### :fire: My Stats :
 
-[! [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/MiskevichStanislav=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MiskevichStanislav&theme=dark&background=000000)](https://git.io/streak-stats)
