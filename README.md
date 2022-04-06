@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Miskevich Stanislav 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior Front-end Developer</h3>
+<h3 align="center">Junior Front-end Developer🌱</h3>
 <h3 align="center">Computer science student, IT news writer from Russia</h3>
 
 <div id="header" align="center">
@@ -10,7 +10,7 @@
 ---
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
-### You can reach me at the email in my github profile. Follow my socials
+### You can reach me at the email in my github profile. Follow my socials.
 
 
 [<img src="https://cdn-icons-png.flaticon.com/128/906/906377.png" height="40em" align="center" alt="Follow MiskevichStanislav on Telegram" title="Follow MiskevichStanislav on Telegram"/>](https://telegram.com/misapisavlog)
