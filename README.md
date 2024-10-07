@@ -39,8 +39,8 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 ---
-### **My Project:**
-[url=https://fabrikainterior.ru]fabrikainterior.ru[url]
+### My Project:
+https://fabrikainterior.ru
 
 ---
 ### :fire: My Stats :
