@@ -14,7 +14,6 @@
 
 
 [<img src="https://cdn-icons-png.flaticon.com/128/906/906377.png" height="40em" align="center" alt="Follow MiskevichStanislav on Telegram" title="Follow MiskevichStanislav on Telegram"/>](https://telegram.com/misapisavlog)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow MiskevichStanislav on Twitter"/>](https://twitter.com/misapisavlog)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Misapisavlog on Instagram"/>](https://instagram.com/misapisavlog)
 
 ---
@@ -38,8 +37,8 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/78322084/162064174-194ac89a-024d-4839-aae3-22d9ee4e3a33.png"  title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
- 
 </div>
+### My Project:
 
 ---
 ### :fire: My Stats :
