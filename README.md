@@ -45,6 +45,8 @@ https://fabrikainterior.ru
 https://hm-band.ru
 https://integra-gk.ru
 https://monterossocafe.ru
+https://yachttotrip.ru
+https://mebelregionov.ru
 ---
 ### :fire: My Stats :
 
