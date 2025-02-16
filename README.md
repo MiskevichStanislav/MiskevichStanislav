@@ -42,7 +42,6 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 My Project:
 
 https://fabrikainterior.ru
-https://hm-band.ru
 https://integra-gk.ru
 https://monterossocafe.ru
 https://yachttotrip.ru
