@@ -45,7 +45,7 @@ https://fabrikainterior.ru
 https://integra-gk.ru
 https://monterossocafe.ru
 https://yachttotrip.ru
-https://mebelregionov.ru
+[https://mebelregionov.ru](gorsreda-gk.ru)
 https://psk-total.ru
 ---
 ### :fire: My Stats :
